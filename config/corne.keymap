@@ -103,7 +103,7 @@
 
     lower {
       bindings = <
-&kp TAB         &kp Q   &kp W   &kp E   &kp R         &kp NUMBER_1    &kp NUMBER_5   &kp NUMBER_6  &kp NUMBER_7      &kp UP_ARROW       &kp DELETE        &kp BACKSPACE
+&kp ESC         &kp Q   &kp W   &kp E   &kp R         &kp NUMBER_1    &kp NUMBER_5   &kp NUMBER_6  &kp NUMBER_7      &kp UP_ARROW       &kp DELETE        &kp BACKSPACE
 &kp LALT        &kp A   &kp S   &kp D   &kp NUMBER_2  &kp NUMBER_3    &kp NUMBER_8   &kp NUMBER_9  &kp LEFT          &kp DOWN           &kp RIGHT         &kp C_VOLUME_UP
 &kp LEFT_SHIFT  &kp F1  &kp F2  &kp F3  &kp F4        &kp NUMBER_4    &kp BACKSLASH  &kp NUMBER_0  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp C_PLAY_PAUSE  &kp C_VOLUME_DOWN
                                 &trans  &mo 0         &kp SPACE       &kp RET        &trans        &trans
